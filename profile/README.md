@@ -1,15 +1,11 @@
 # InternetMaximalism 🌐
 
-Welcome to the **InternetMaximalism Organization**  
-We are building the next generation of **scalable, privacy-preserving, and user-friendly blockchain systems**.
+Data-minimized, Post-quantum, instantly finalized, and fully private blockchain payment. 
 
 ## 📚 Key Resources
 
 - [Official Website](https://intmax.io/)
-- [Documentation](https://docs.network.intmax.io/)
-- [Developers Hub](https://docs.network.intmax.io/developers-hub)
-- [INTMAX App](https://app.intmax.io/)
-- [INTMAX2 Repository](https://github.com/InternetMaximalism/intmax2)
+- [INTMAX3 Repository](https://github.com/InternetMaximalism/intmax3-zkp)
 
 ## 🤝 Contributing
 
@@ -18,5 +14,4 @@ Please check the `CONTRIBUTING.md` in the repository you’re working on.
 
 ## 🔒 Security
 
-Security policies are defined **per repository**.  
-Please refer to that repo’s `SECURITY.md`.
+https://github.com/InternetMaximalism/intmax3-zkp/tree/main/doc/audit
