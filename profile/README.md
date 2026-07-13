@@ -1,4 +1,4 @@
-# InternetMaximalism 🌐
+# Intmax (InternetMaximalism)
 
 Data-minimized, Post-quantum, instantly finalized, and fully private blockchain payment. 
 
