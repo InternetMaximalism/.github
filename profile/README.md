@@ -13,5 +13,5 @@ Contribution guidelines are maintained **per repository**.
 Please check the `CONTRIBUTING.md` in the repository you’re working on.
 
 ## 🔒 Security
-
+Both the architecure and the implementation are proven to be safe by Lean language.
 https://github.com/InternetMaximalism/intmax3-zkp/tree/main/doc/audit
